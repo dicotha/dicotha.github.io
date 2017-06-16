@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Step by step"
 date:   2017-06-16 16:22:45 +0200
 categories: Explaining
