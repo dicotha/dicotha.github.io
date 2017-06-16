@@ -1,7 +1,12 @@
 ---
 layout: page
-title: About
+title: Whats up guys
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hey, my name is Waldir Bertuqui, im form Brazil and i know, why my blog is all whrite in english?
+This is simple, because i need put my knowlegd in pratice. Simple no?
+The same way I did this blog
+The only way of you really know about something is put this in pratice.
+So lets do this.
+Here i would to show all im know about front and backend to development to web, Im dont know much , but all im know will remain here forever.😱😱😱😱
