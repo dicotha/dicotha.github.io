@@ -14,4 +14,4 @@ Here i would to show all im know about front and backend to development to web, 
 <br>
 <br>
 <br>
-<center><img src="assets/giphy.gif"></center>
+<center><img src="/assets/giphy.gif"></center>
