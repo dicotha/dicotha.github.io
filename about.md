@@ -4,7 +4,7 @@ title: Whats up guys
 permalink: /about/
 ---
 
-Hey, my name is Waldir Bertuqui, im form Brazil and i know, why my blog is all write in english?
+Hey, my name is Waldir Bertuqui, im from Brazil and i know, why my blog is all write in english?
 This is simple, because i need put my knowledge in pratice. Simple no?
 The same way I did this blog
 The only way of you really know about something is put this in pratice.
