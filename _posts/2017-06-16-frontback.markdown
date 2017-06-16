@@ -12,7 +12,7 @@ In the title you will see the name of the language that i will use, after that t
 Inside the post I will show the code with this highlights ⬇️
 
 {% highlight ruby %}
-<? echo hellow world ?>
+<? echo "hellow world" ?>
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
