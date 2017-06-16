@@ -10,3 +10,8 @@ The same way I did this blog.<br>
 The only way of you really know about something is put this in pratice.<br>
 So lets do this.<br>
 Here i would to show all im know about front and backend to development to web, Im dont know much , but all im know will remain here forever.😱😱😱😱
+
+<br>
+<br>
+<br>
+<center><img src="assets/giphy.gif"></center>
