@@ -8,8 +8,8 @@
 # Site settings
 title: Learn/More/Codes
 email: wbn_k@hotmail.com
-description:  Here in this blog you will learn with me new skills and technical to go ahead with your knowledge in web development.
-Learn something new every day, tips or tutorials, whatever, the important and always learn more
+description:  Here in this blog you will learn with me new skills and technical to go ahead with your knowledge in web development. 
+              Learn something new every day, tips or tutorials, whatever, the important and always learn more.
 baseurl: "https://dicotha.github.io" # the subpath of your site, e.g. /blog
 url: "https://dicotha.github.io" # the base hostname & protocol for your site
 twitter_username: dicotha
