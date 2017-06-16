@@ -1,21 +1,18 @@
 ---
 layout: post
 title:  "Step by step"
-date:   2016-07-19 11:49:45 +0200
+date:   2017-06-16 16:22:45 +0200
 categories: Explaining
 ---
+
 First at all, I need explain how the posts will show for you.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+In the title you will see the name of the language that i will use, after that the name of the tutorial and on the finished you will see which part he is.
 
-Jekyll also offers powerful support for code snippets:
+Inside the post I will show the code with this highlights ⬇️
 
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+	<?php echo hellow world ?>
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
