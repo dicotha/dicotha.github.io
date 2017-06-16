@@ -6,11 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: LearnMoreCode
+title: Learn/More/Codes
 email: wbn_k@hotmail.com
-description:  Write an awesome description for your new site here. You can edit this
-              line in _config.yml. It will appear in your document head meta (for
-              Google search results) and in your feed.xml site description.
+description:  Here in this blog you will learn with me new skills and technical to go ahead with your knowledge in web development.
+Learn something new every day, tips or tutorials, whatever, the important and always learn more
 baseurl: "https://dicotha.github.io" # the subpath of your site, e.g. /blog
 url: "https://dicotha.github.io" # the base hostname & protocol for your site
 twitter_username: dicotha
