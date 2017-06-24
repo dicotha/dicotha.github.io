@@ -9,7 +9,7 @@ This is simple, because i need put my knowledge in pratice. Simple no?<br>
 The same way I did this blog.<br>
 The only way of you really know about something is put this in pratice.<br>
 So lets do this.<br>
-Here i would to show all I'm know about front and backend to development to web, Im dont know much, but all I'm know will remain here forever.😱😱😱😱
+Here i would to show all I'm know about front and backend to development to web, I'm dont know much, but all I'm know will remain here forever.😱😱😱😱
 
 <br>
 <br>
