@@ -8,7 +8,7 @@ published: true
 ---
 
 
-##Hello everyone 
+<h2>Hello everyone</h2>
 
 ![Angular]({{site.baseurl}}/https://angular.io/assets/images/logos/angular/angular.svg)  
 
