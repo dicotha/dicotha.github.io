@@ -11,7 +11,7 @@ published: true
 <h2>Hello everyone</h2>
 
 <center>
-	<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" style="width:150px" class="wobble">
+	<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" style="width:150px" class="wobble animated">
 </center>
 
 
