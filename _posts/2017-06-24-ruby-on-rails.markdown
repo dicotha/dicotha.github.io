@@ -10,9 +10,7 @@ published: true
 
 <h2>Hello everyone</h2>
 
-![Angular]({{site.baseurl}}/https://angular.io/assets/images/logos/angular/angular.svg)  
-
-
+<center><img src="https://angular.io/assets/images/logos/angular/angular.svg"></center>
 
 
 This is my first post here in my blog and like to star with some I like much
