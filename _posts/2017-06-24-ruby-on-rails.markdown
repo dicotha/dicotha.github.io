@@ -10,7 +10,8 @@ published: true
 
 <h2>Hello everyone</h2>
 
-<center><img src="https://angular.io/assets/images/logos/angular/angular.svg"></center>
+<center>![Angular](https://angular.io/assets/images/logos/angular/angular.svg)  </center>
+
 
 
 This is my first post here in my blog and like to star with some I like much
@@ -37,4 +38,3 @@ To start your need have to install the node.js in your machine
 
 Open this link and download the last version of the node.js  
 [Node.js](https://nodejs.org/en/ "Node")
-
