@@ -26,11 +26,11 @@ Is a framework open source with a huge community behind.
 With this, angular had a lot of upgrades, starting with angular 2 and then the angular 4.  
 But where is the angular 3 ?  
 I have a explanation about this, the development of angular is it in five parts  
-	1. core
-	2. compiler
-	3. compiler-cli
-	4. http
-	5. router
+	1- core  
+	2- compiler  
+	3- compiler-cli  
+	4- http  
+	5- router  
 In the four first parts the version it was 2.3.0, and the router part was in 3.0.0, so the google decided to stop label the angular versions and call the framework only Angular.  
 Is more or less this, but to summing up is this, Angular now is only call Angular.  
 
@@ -41,5 +41,7 @@ To start your need have to install the node.js in your machine
 
 Open this link and download the last version of the node.js  
 
+<nav class="cl-effect-3">
+	<a href="https://nodejs.org/en/">Nodejs</a>
+</nav>
 
-[Node.js](https://nodejs.org/en/ "Node")
