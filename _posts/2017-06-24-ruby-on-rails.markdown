@@ -11,13 +11,13 @@ published: true
 <h2>Hello everyone</h2>
 
 <center>
-	<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" style="width:150px">
+	<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" style="width:150px" class="wobble">
 </center>
 
 
 
-This is my first post here in my blog and like to star with some I like much
-Angular.  
+This is my first post here in my blog and I like to star with Angular.  
+
 
 Angular is a most powerful frontend framework.  
 And I would to explain fast your history.  
@@ -34,9 +34,12 @@ I have a explanation about this, the development of angular is it in five parts
 In the four first parts the version it was 2.3.0, and the router part was in 3.0.0, so the google decided to stop label the angular versions and call the framework only Angular.  
 Is more or less this, but to summing up is this, Angular now is only call Angular.  
 
-###So, let's start your first project:
+<h2>So, let's start your first project:</h2>
 
 To start your need have to install the node.js in your machine  
 
+
 Open this link and download the last version of the node.js  
+
+
 [Node.js](https://nodejs.org/en/ "Node")
