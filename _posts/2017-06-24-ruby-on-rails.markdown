@@ -10,7 +10,9 @@ published: true
 
 <h2>Hello everyone</h2>
 
-<center style="width:150px">![Angular](https://angular.io/assets/images/logos/angular/angular.svg)  </center>
+<center style="width:150px">
+  ![Angular](https://angular.io/assets/images/logos/angular/angular.svg)  
+</center>
 
 
 
