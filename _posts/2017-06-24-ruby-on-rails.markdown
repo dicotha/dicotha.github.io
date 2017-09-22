@@ -11,6 +11,7 @@ published: true
 <h2>Hello everyone</h2>
 
 <center style="width:150px">
+  ![https://angular.io/assets/images/logos/angular/angular.svg]({{site.baseurl}}/)
   ![Angular](https://angular.io/assets/images/logos/angular/angular.svg) 
 </center>
 
