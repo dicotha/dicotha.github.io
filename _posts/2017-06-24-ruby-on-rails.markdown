@@ -7,11 +7,19 @@ categories: Explaining
 published: true
 ---
 
+<style>
+	.link {
+		color: #FFF;
+		background-color: #43853d;
+		padding: 8px;
+		box-shadow: 0px 3px 5px 0px black;
+	}
+</style>
 
 <h2>Hello everyone</h2>
 
 <center>
-	<img src="https://qph.ec.quoracdn.net/main-qimg-ef0e116da7fd48a80fe2a4695f545071" alt="Angular"  class="wobble animated">
+	<img src="https://qph.ec.quoracdn.net/main-qimg-ef0e116da7fd48a80fe2a4695f545071" alt="Angular"  class="wobble animated" style="margin-bottom: 15px;">
 </center>
 
 
@@ -42,6 +50,43 @@ To start your need have to install the node.js in your machine
 Open this link and download the last version of the node.js  
 
 <nav class="cl-effect-3">
-	<a href="https://nodejs.org/en/">Nodejs</a>
-</nav>
+	<a class="link" href="https://nodejs.org/en/">Nodejs</a>
+</nav>  
+
+After you install de node, we go to terminal and type this command  
+
+{% highlight ruby %}
+node -v 
+{% endhighlight %}
+
+If all was install correct, you will see de version of de Nodejs  
+
+Another line of command is 
+
+{% highlight ruby %}
+npm -v 
+{% endhighlight %}
+
+The same thing, will show for you the version of the npm
+
+The next step is install the Angular CLI  
+Yet in terminal, put this command.
+
+{% highlight ruby %}
+npm install -g @angular/cli
+{% endhighlight %}
+
+This will download all dependencies of Angular Cli and put him in global mode.
+
+After do all this, we can start a development in angular.
+
+Two things we will use a lot.
+
+Visual Studio Code (Or another if you prefer, example Sublime).
+Link to <a href="https://code.visualstudio.com/download">VS</a>
+And the terminal.
+
+
+
+
 
