@@ -78,13 +78,13 @@ npm install -g @angular/cli
 
 This will download all dependencies of Angular Cli and put him in global mode.
 
-After do all this, we can start a development in angular.
+After do all this, we can start a development in angular.  
 
-Two things we will use a lot.
+Two things we will use a lot.  
 
-Visual Studio Code (Or another if you prefer, example Sublime).
-Link to <a href="https://code.visualstudio.com/download">VS</a>
-And the terminal.
+Visual Studio Code (Or another if you prefer, example Sublime).  
+Link to <a href="https://code.visualstudio.com/download">VS</a>  
+And the terminal.  
 
 
 
