@@ -11,7 +11,7 @@ published: true
 	.link {
 		color: #FFF;
 		background-color: #43853d;
-		padding: 8px;
+		padding: 8px !important;
 		box-shadow: 0px 3px 5px 0px black;
 	}
 </style>
