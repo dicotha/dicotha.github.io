@@ -83,10 +83,22 @@ After do all this, we can start a development in angular.
 Two things we will use a lot.  
 
 Visual Studio Code (Or another if you prefer, example Sublime).  
-Link to <a href="https://code.visualstudio.com/download">VS</a>  
+Link to download the  <a href="https://code.visualstudio.com/download">Visual Studio</a>  
 And the terminal.  
 
 
+Comeback to your terminal, find the folder where you can create your project and type the command line below  
+
+{% highlight ruby %}
+ng new my-first-app
+{% endhighlight %}
+
+This will download all files that we need to start, when the download finish you will see this informations
+
+
+<center>
+	<img src="https://photos.app.goo.gl/dOiWnkQMzyC7Nk2I2" alt="Angular"  class="wobble animated" style="margin-bottom: 15px;">
+</center>
 
 
 
