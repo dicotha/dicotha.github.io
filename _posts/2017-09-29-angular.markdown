@@ -19,7 +19,7 @@ published: true
 <h2>Hello everyone</h2>
 
 <center>
-	<img src="https://qph.ec.quoracdn.net/main-qimg-ef0e116da7fd48a80fe2a4695f545071" alt="Angular"  class="wobble animated" style="margin-bottom: 15px;">
+	<img src="https://qph.ec.quoracdn.net/main-qimg-ef0e116da7fd48a80fe2a4695f545071" alt="Angular"  class="wobble animated" style="margin-bottom: 15px;width: 90%;">
 </center>
 
 
@@ -121,6 +121,12 @@ If you do all correct, you'll see this screen below.<br>
 	<img src="https://lh3.googleusercontent.com/SxbbLNHWvleEk9i5wZK8HEM-o_cX2-9-TBqnOT7_M-ev01yqwH8IktrGgefPlkyPYX-e_21m_cvQJ2mbYLq-TCe3NNm_Eu7dTRB7lkorxyS0jl8OgpjSVruAiPtk4q87l1P52fyUVw5lMCrvTNnqiA870AbvOl6gTIQ6W89foRiT4FelZsZUu884yk_FcuQ4ThC6NUxQXorZW_X8mB4oGbBALsAWVXbOe2WqAVb-d1LVZYt8N3CC9S5C5R5cMFp8bdT1cSpj8fiSsBsXiaIci4Zn5xszNwvTj2sIkVkPJ8UL3J9aLe33rwAArjKHonJ--wH8NjDdyKkSShYjFHQKX3nvyqoZo9bp4y0SBUzpIH19koaXjcj-ESIJkfv7cu_cof1V7PGmjdLS6YgihGpWvOOggiZbZiPMiqilee0LBDmoluCR4f31wXmPu_T3Z5FxvnkIMB_G_7wZf5oRCtcwaRBM_KBW0iT96DAiNPGm4jwDn9UIaNuuh1cRxtl0Xoohoa78GFchaF1_U1gXwp1NeV23PZp7PPUMaLaX_GKcu8BLCgiYuQcQ3JQRV_O71qbpmuVe5IoAZNRI-LWMDZTuSFLz947O3Ul0BpQfV4PLmg=w1129-h637-no" alt="Angular"  class="wobble animated" style="margin-bottom: 15px;width: 90%;">
 </center>
 
+<br>
+<br>
+Now our project has finished and it's running, the next step is modify and create a new component, but this will has to the next post.
+<br>
+See you soon.
+<br><br>
 
 
 
